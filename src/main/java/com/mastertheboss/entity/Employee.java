@@ -6,9 +6,11 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+import com.masterheboss.globaleinterface.Identifiable;
+
 @Entity
 @Table
-public class Employee {
+public class Employee implements Identifiable<Long>{
   @Id
   @GeneratedValue
   private Long id;

@@ -1,4 +1,8 @@
-C:\Produits\dev\ws-mars-jee\git\HibernateExample\src\main\java\com\mastertheboss\entity\Department.java
-C:\Produits\dev\ws-mars-jee\git\HibernateExample\src\main\java\com\mastertheboss\entity\Employee.java
-C:\Produits\dev\ws-mars-jee\git\HibernateExample\src\main\java\com\mastertheboss\util\HibernateUtil.java
-C:\Produits\dev\ws-mars-jee\git\HibernateExample\src\main\java\com\mastertheboss\HibernateTest.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\mastertheboss\entity\Employee.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\mastertheboss\HibernateTest.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\masterheboss\repository\GenericRepository.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\masterheboss\service\EmployeeService.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\mastertheboss\entity\Department.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\masterheboss\globaleinterface\Identifiable.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\masterheboss\repository\EmployeeRepository.java
+C:\Produits\dev\ws-mars-jee\git\HibernateProject\src\main\java\com\mastertheboss\util\HibernateUtil.java

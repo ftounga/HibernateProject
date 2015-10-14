@@ -1,0 +1,8 @@
+com\masterheboss\globaleinterface\Identifiable.class
+com\masterheboss\repository\EmployeeRepository.class
+com\mastertheboss\entity\Employee.class
+com\mastertheboss\util\HibernateUtil.class
+com\masterheboss\service\EmployeeService.class
+com\mastertheboss\entity\Department.class
+com\masterheboss\repository\GenericRepository.class
+com\mastertheboss\HibernateTest.class
